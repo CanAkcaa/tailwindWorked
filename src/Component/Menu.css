@@ -1,0 +1,13 @@
+.menu{
+    position: absolute;
+    width: 100%;
+    height: 6%;
+}
+.deneme{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 300px;
+    position: relative;
+    left: 600px;
+}
